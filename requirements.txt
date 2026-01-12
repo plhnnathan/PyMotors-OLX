@@ -1,0 +1,11 @@
+curl_cffi
+beautifulsoup4
+pydantic
+pandas
+openpyxl
+xlsxwriter
+customtkinter
+packaging
+Pillow
+unidecode
+requests
