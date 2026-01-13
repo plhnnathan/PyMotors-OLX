@@ -27,7 +27,7 @@ This project is a Python-based **Data Mining & Analysis** tool designed to scout
     * `fipe.py`: API client for official car pricing.
     * `models.py`: Data validation using Pydantic.
 * `data/`: Directory where the Excel reports are saved.
-* `main_app.py`: Application entry point (GUI).
+* `main.py`: Application entry point (GUI).
 
 ## ⚙️ Setup Instructions
 
