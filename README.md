@@ -13,7 +13,7 @@ This project is a Python-based **Data Mining & Analysis** tool designed to scout
     * **Usage Metrics:** Calculates average KM/Year to identify high-usage vehicles (e.g., ex-taxis).
 * **Loading (Visualization):**
     * **Modern GUI:** A clean, responsive desktop interface built with `CustomTkinter` (Light/Dark mode).
-    * **Excel Reports:** Generates professional `.xlsx` files with conditional formatting and active hyperlinks.
+    * **Excel Reports:** Generates professional `.csv` files with conditional formatting and active hyperlinks.
 
 ## 🛠️ Technologies & Skills
 * **Language:** Python 3.10+
