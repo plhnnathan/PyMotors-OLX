@@ -29,5 +29,12 @@ This project is a Python-based **Data Mining & Analysis** tool designed to scout
 * `data/`: Directory where the Excel reports are saved.
 * `main_app.py`: Application entry point (GUI).
 
+## ⚙️ Setup Instructions
+
+1. Clone the repository.
+2. Install the dependencies listed in requirements.txt.
+3. Ensure you have Python 3.x installed on your system.
+4. Run the project by executing the main.py file.
+
 ## 📧 Contact
 Nathan Chaia | [LinkedIn](https://www.linkedin.com/in/nathan-chaia-ba57773a2)
