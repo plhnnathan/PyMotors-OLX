@@ -37,4 +37,4 @@ This project is a Python-based **Data Mining & Analysis** tool designed to scout
 4. Run the project by executing the main.py file.
 
 ## 📧 Contact
-Nathan Chaia | [LinkedIn](https://www.linkedin.com/in/nathan-chaia-ba57773a2)
+Nathan Chaia | [LinkedIn](www.linkedin.com/in/plhnathan)
